@@ -1,0 +1,33 @@
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\bin\Debug\Warehouse.exe.config
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\bin\Debug\Warehouse.exe
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\bin\Debug\Warehouse.pdb
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.csproj.SuggestedBindingRedirects.cache
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.FormChairs.resources
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.exe
+D:\Edication Practice 25 May Start\TaskThree\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\bin\Debug\Warehouse.exe.config
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\bin\Debug\Warehouse.exe
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\bin\Debug\Warehouse.pdb
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.FormChairs.resources
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.exe
+C:\Users\home\Desktop\EducationPracticeThreeZemerova-main\obj\Debug\Warehouse.pdb
+C:\Users\home\Desktop\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\home\Desktop\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\home\Desktop\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.FormChairs.resources
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\home\Desktop\Warehouse\obj\Debug\Warehouse.pdb
